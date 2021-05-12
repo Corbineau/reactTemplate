@@ -45,6 +45,10 @@
   },
   "dependencies": {
     "axios": "^0.21.1",
+<<<<<<< HEAD
+=======
+    "browserify": "^16.4.0",
+>>>>>>> e3aa6a412474923eace2a4a4bb5c1f633a881fce
     "body-parser": "^1.19.0",
     "browserify": "^16.4.0",
     "dotenv": "^8.0.0",
